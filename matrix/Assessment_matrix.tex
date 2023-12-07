@@ -1,10 +1,9 @@
 \documentclass{article}
+\usepackage{gvv-book}
+\usepackage{gvv}
 \usepackage{amsmath}
 \usepackage{tfrupee}
 \usepackage{geometry}
-
-\providecommand{\mydet}[1]{\ensuremath{\begin{vmatrix}#1\end{vmatrix}}}
-\providecommand{\myvec}[1]{\ensuremath{\begin{bmatrix}#1\end{bmatrix}}}
 
 \begin{document}
 
@@ -113,7 +112,7 @@
     \end{enumerate}
         
 
-    \item If $A = [a_{i}{j}]$ is a square matrix of order $2$ such that $a_{i} = \begin{cases}1, i + j \\0, i-j
+    \item If $A = [a_{i}{j}]$ is a square matrix of order $2$ such that $a_{i} = \begin{cases}1, & i + j \\0, & i-j
     \end{cases}$, then $A^2$ is:
     \begin{enumerate}
         \item $\myvec{1 & 0 \\ 1 & 0}$
