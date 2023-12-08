@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.11.28)  5 DEC 2023 18:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.11.28)  8 DEC 2023 06:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -94,14 +94,18 @@ e
 <gate.jpg, id=1, 562.35094pt x 285.31593pt>
 File: gate.jpg Graphic file (type jpg)
 <use gate.jpg>
-Package pdftex.def Info: gate.jpg  used on input line 9.
+Package pdftex.def Info: gate.jpg  used on input line 10.
 (pdftex.def)             Requested size: 345.0pt x 175.03943pt.
 
-Overfull \hbox (34.73828pt too wide) in paragraph at lines 6--13
+Overfull \hbox (34.73828pt too wide) in paragraph at lines 7--14
 []\OT1/cmr/m/n/10 The out-put F of the dig-i-tal cir-cuit shown can be writ-ten
  in the form(s)[]
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 15.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./gate.jpg>]
@@ -111,18 +115,19 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 1277 strings out of 476091
- 21233 string characters out of 5794080
- 1850330 words of memory out of 5000000
- 21708 multiletter control sequences out of 15000+600000
+ 1279 strings out of 476091
+ 21261 string characters out of 5794080
+ 1852330 words of memory out of 5000000
+ 21710 multiletter control sequences out of 15000+600000
  512287 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,7n,62p,192b,305s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Assessment_gate.pdf (1 page, 38518 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on Assessment_gate.pdf (1 page, 47234 bytes).
 PDF statistics:
- 14 PDF objects out of 1000 (max. 8388607)
- 7 compressed objects within 1 object stream
+ 19 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
